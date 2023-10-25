@@ -8,6 +8,6 @@ This workflow requires that you have [CleanShot X for Mac](https://cleanshot.com
 
 # Usage
 
-Run the workflow by typing the default keyword followed by <space> for a list of the various CleanShot X utilities you can trigger from the workflow.
+Run the workflow by typing the default keyword followed by \<space\> for a list of the various CleanShot X utilities you can trigger from the workflow.
 
-You can also type your default keyword *without* following it by <space> to launch or quit CleanShot (i.e., that is a toggle).
+You can also type your default keyword *without* following it by \<space\> to launch or quit CleanShot (i.e., that is a toggle).
